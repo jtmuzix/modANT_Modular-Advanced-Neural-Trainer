@@ -150,5 +150,5 @@ Dynamic Custom Model Profiling (Registry Integration)
 
 A defining feature of the modANTLite framework is the pervasive integration of the Central Model Registry. Within nearly every aforementioned sector, researchers possess the capability to load architectures generated in the Advanced Model Builder and subject them to theoretical physical analysis.
 
-By injecting real PyTorch tensors through custom topologies, the framework automatically derives precise VRAM inference requirements, parameter counts, theoretical milliseconds of latency, post-quantization memory footprints, structural sparsity masks, and instantaneous Zero-Cost proxy evaluations.# modANT---Modular-Neural-Trainer
+By injecting real PyTorch tensors through custom topologies, the framework automatically derives precise VRAM inference requirements, parameter counts, theoretical milliseconds of latency, post-quantization memory footprints, structural sparsity masks, and instantaneous Zero-Cost proxy evaluations.# modANT_Modular-Advanced-Neural-Trainer
 README.md about a system written in python that simulations various types of neural networks.
