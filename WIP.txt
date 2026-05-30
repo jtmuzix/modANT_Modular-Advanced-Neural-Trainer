@@ -1,0 +1,1 @@
+This is a work in progress written in Python, and yes I do have the code but it's far from polished.  This is 100% console CLI ASCII based but offers a lot in terms of flags and options.  
